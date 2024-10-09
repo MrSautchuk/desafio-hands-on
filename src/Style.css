@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: 0;
+}
+
+#xicara {
+    height: 25px;
+    width: 25px;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    padding: 35px 77px 35px 77px;
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+}
+
+body {
+    font-family: "Roboto" sans-serif;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+}
